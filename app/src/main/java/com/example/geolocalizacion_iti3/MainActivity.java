@@ -13,7 +13,7 @@ import androidx.navigation.ui.NavigationUI;
 import com.example.geolocalizacion_iti3.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
-
+    int a =0;
     private ActivityMainBinding binding;
 
     @Override
